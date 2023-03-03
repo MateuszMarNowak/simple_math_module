@@ -1,5 +1,5 @@
 import unittest
-from ...extras.power import power
+from extras.power import power
 
 class TestPower(unittest.TestCase):
 

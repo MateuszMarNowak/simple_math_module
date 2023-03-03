@@ -1,5 +1,5 @@
 import unittest
-from ...extras.divide import divide
+from extras.divide import divide
 
 class TestDivide(unittest.TestCase):
     
