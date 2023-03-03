@@ -6,7 +6,7 @@ DESCRIPTION = 'Simple math module'
 # Setting up
 setup(
        # the name must match the folder name 'verysimplemodule'
-        name="simple_math", 
+        name="simple_math_module", 
         version=VERSION,
         author="Wocek",
         description=DESCRIPTION,

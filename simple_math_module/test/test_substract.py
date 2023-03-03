@@ -1,5 +1,5 @@
 import unittest
-from ..substract import substract
+from substract import substract
 
 class TestSubstract(unittest.TestCase):
     
